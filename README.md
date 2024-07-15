@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @SPRINGERSOFTWARETECH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @SPRINGERSOFTWARETECHNOLOGY
+- 👀 I’m interested in machines.
+- 🌱 I’m currently a active working company.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me, Contact:springersoftwaretechnology@gmail.com, silvanceodiwuor99@gmail.com.
+- 😄 Pronouns: SST
+- ⚡ Fun fact🎰
 
 <!---
-SPRINGERSOFTWARETECH/SPRINGERSOFTWARETECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+SPRINGERSOFTWARETECH/SPRINGERSOFTWARETECH is a Generation 21 based tech company in Kenya.
+Feel free to follow me and learn more.
 --->
